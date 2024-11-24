@@ -36,7 +36,7 @@ He/Him
 
 ## ⚡ Fun Fact
 
-I absolutely love teaching myself mathematics and physics in my free time. You might also catch me geeking out over clinical sciences or experimenting with finance and entrepreneurship. Life is full of things to learn, right?
+I absolutely love teaching myself mathematics and physics in my free time. You might also catch me geeking out over clinical sciences or experimenting with new ways to excercise in the gym.
 
 ---
 
