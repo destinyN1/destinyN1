@@ -15,9 +15,10 @@ Honestly, I bounce between interests quite a lot, so you’ll probably see some 
 
 ## 🌱 Currently Learning
 
-- **Low-Level Programming**: Exploring C.
+- **Low-Level Programming**: Exploring Python app development
 - **Hardware Development**: Building and testing systems that work in the real world.
-- **Entrepreneurship**: Finding my way in the world of business and finance.
+- **Entrepreneurship**: Finding my way in the world of business and finance
+  
 
 ## 💞️ Collaboration
 
