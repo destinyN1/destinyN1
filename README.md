@@ -15,9 +15,10 @@ Honestly, I bounce between interests quite a lot, so you’ll probably see some 
 
 ## 🌱 Currently Learning
 
-- **App-Development**: Exploring Python app development, implementing SQLITE, and potentially WebDev later on.
-- **Hardware Development**: Building and testing systems that work in the real world.
-- **Entrepreneurship**: Finding my way in the world of business and finance
+- Cryptographic Hardware Design: Building a ChaCha20-Poly1305 AEAD encryption engine in SystemVerilog following full ASIC design flow
+-  Verification Techniques: Developing comprehensive testbenches and validation methodologies such as using Pyhton scripts for black box verification
+- Hardware Optimization: Exploring pipelining and performance optimization for cryptographic processors
+
   
 
 ## 💞️ Collaboration
