@@ -1,45 +1,45 @@
-# 👋 Hi, I’m @destinyN1
+# Electrical and Electronic Engineering Graduate
 
-Hi there! My name is **Destiny**, and I’m a soon-to-be graduate of **Electrical & Electronic Engineering**. Welcome to my little corner of GitHub, where you’ll find a mix of projects reflecting my wide range of interests.
+## Professional Summary
 
-## 👀 Interests
+Electrical and Electronic Engineering graduate seeking opportunities in software development and digital hardware design. Interested in roles that leverage both software expertise and hardware knowledge.
 
-I’m passionate about:
-- **Hardware Design & Testing**: Exploring the ins and outs of electronics and computers.
-- **Mathematics & Physics**: Teaching myself advanced concepts in my free time.
-- **Computer Security & Networking**: Delving into low-level programming and better security practices.
-- **Clinical Sciences**: Reading and learning about medical topics.
-- **Entrepreneurship & Finance**: I'm fascinated by innovative ways to make a positive impact on the world and also possibly making a quick buck in the mean time. 
+## Areas of Interest
 
-Honestly, I bounce between interests quite a lot, so you’ll probably see some **random projects** here too. Let’s see where this journey takes us!
+**Hardware Design**
+- ASIC Design
+- FPGA Development
 
-## 🌱 Currently Learning
+**Software Development**
+- Embedded Systems
+- General Software Engineering
 
-- Cryptographic Hardware Design: Building a ChaCha20-Poly1305 AEAD encryption engine in SystemVerilog following full ASIC design flow
--  Verification Techniques: Developing comprehensive testbenches and validation methodologies such as using Pyhton scripts for black box verification
-- Hardware Optimization: Exploring pipelining and performance optimization for cryptographic processors
+## Core Technical Competencies
 
-  
+**Primary Languages**
+- C and Embedded C
+- Python
+- SystemVerilog
 
-## 💞️ Collaboration
+**Additional Languages**
+- ARM Assembly
+- VHDL
 
-I’m open to collaborating on:
-- **Open Source Software**: Especially for better security practices.
-- **Interesting Hardware Projects**
-- **Applications To Solve Niche Problems**
+**Scripting & Automation**
+- C-Shell (csh) for scripting and automation workflows
 
-## 📫 How to Reach Me
+## Projects
 
-Feel free to reach out to me via email: **destinynewman79@gmail.com**
+My most significant technical achievement to date is my ChaCha20 and Poly1305 ASIC project  it remains incomplete due to unforeseen circumstances, it represents substantial work in cryptographic hardware implementation and stands as my proudest technical undertaking.
 
-## 😄 Pronouns
+Additional projects and work can be explored throughout my repositories.
 
-He/Him
+## Personal Interests
 
-## ⚡ Fun Fact
+I maintain a commitment to continuous learning through self-study of medical literature, physics, and mathematics. Outside of technical pursuits, I enjoy playing music and maintaining an active lifestyle through fitness training.
 
-I absolutely love teaching myself mathematics and physics in my free time. You might also catch me geeking out over clinical sciences or experimenting with new ways to excercise in the gym.
+## Contact
 
----
+Open to discussing opportunities in embedded systems, software engineering, and digital hardware design.
 
-Thanks for stopping by, and enjoy browsing my projects. Peace! ✌️
+You can reach me at **destinynewman79@gmail.com**
