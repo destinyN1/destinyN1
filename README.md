@@ -36,7 +36,7 @@ Additional projects and work can be explored throughout my repositories.
 
 ## Personal Interests
 
-I maintain a commitment to continuous learning through self-study of medical literature, physics, and mathematics. Outside of technical pursuits, I enjoy playing music and maintaining an active lifestyle through fitness training.
+I maintain commited to continuous learning through self-study of medical literature, physics, and mathematics. Outside of technical pursuits, I enjoy playing music and maintaining an active lifestyle through fitness training.
 
 ## Contact
 
