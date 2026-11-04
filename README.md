@@ -1,45 +1,31 @@
-# Electrical and Electronic Engineering Graduate
+# Hi, I'm Destiny
 
-## Professional Summary
+Firmware developer at **IBM**, working on build, automation, security and deployment for **IBM Z** mainframe systems. I have a background in Electrical and Electronic Engineering, and I work across both software and digital hardware.
 
-Electrical and Electronic Engineering graduate seeking opportunities in software development and digital hardware design. Interested in roles that leverage both software expertise and hardware knowledge.
+## Open source
 
-## Areas of Interest
+I contribute to open-source projects in quantitative finance and scientific computing, including **[vectorbt](https://github.com/polakowo/vectorbt)** and **[QuantLib](https://github.com/lballabio/QuantLib)**. My contributions focus on performance and correctness.
 
-**Hardware Design**
-- ASIC Design
-- FPGA Development
+## Technical skills
 
-**Software Development**
-- Embedded Systems
-- General Software Engineering
+**Languages:** C and Embedded C, Python, SystemVerilog, C++, VHDL, ARM Assembly, Rust
 
-## Core Technical Competencies
+**Scripting and automation:** Shell (csh, bash), CI/CD pipelines
 
-**Primary Languages**
-- C and Embedded C
-- Python
-- SystemVerilog
-
-**Additional Languages**
-- ARM Assembly
-- VHDL
-
-**Scripting & Automation**
-- C-Shell (csh) for scripting and automation workflows
+**Hardware:** ASIC design, FPGA development, RTL to GDSII flow
 
 ## Projects
 
-My most significant technical achievement to date is my ChaCha20 and Poly1305 ASIC project  it remains incomplete due to unforeseen circumstances, it represents substantial work in cryptographic hardware implementation and stands as my proudest technical undertaking.
+- **[ChaCha20-Poly1305 AEAD engine](https://github.com/destinyN1/Open-Source-ChaCha20-Poly1305_AEAD-Engine_RTL---GDSII-Flow)**: a cryptographic hardware engine in SystemVerilog, taken through the RTL to GDSII flow. It's still a work in progress, and the project I'm most proud of.
+- **[AHB-Lite bus with central arbitration](https://github.com/destinyN1/AHB-Lite-Bus-Protocol-With-Central-Arbitration)**: a round-robin AHB-Lite arbiter in VHDL, connecting I2C, SPI, UART and other peripherals.
+- **[JTAG finite state machine](https://github.com/destinyN1/JTAG-Finite-State-Machine)**: an IEEE-standard JTAG TAP controller in VHDL.
 
-Additional projects and work can be explored throughout my repositories.
+More of my work is in my repositories.
 
-## Personal Interests
+## Outside of work
 
-I maintain commited to continuous learning through self-study of medical literature, physics, and mathematics. Outside of technical pursuits, I enjoy playing music and maintaining an active lifestyle through fitness training.
+I keep learning through self-study in physics, mathematics and medical literature. I also play music and train regularly.
 
 ## Contact
 
-Open to discussing opportunities in embedded systems, software engineering, and digital hardware design.
-
-You can reach me at **destinynewman79@gmail.com**
+You can reach me at **destinynewman79@gmail.com**.
