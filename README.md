@@ -24,7 +24,7 @@ More of my work is in my repositories.
 
 ## Outside of work
 
-I keep learning through self-study in physics, mathematics and medical literature. I also play music and train regularly.
+I keep learning through self-study in physics, mathematics and medical literature. I also play music.
 
 ## Contact
 
